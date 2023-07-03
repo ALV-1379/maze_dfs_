@@ -33,6 +33,7 @@ namespace mazedfs
             else
             {
                 Console.WriteLine("masiri vojod nadarad.");
+                test.print();
             }
             Console.ReadKey();
         }
